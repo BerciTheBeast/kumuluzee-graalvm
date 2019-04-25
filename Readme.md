@@ -1,6 +1,8 @@
 # KumuluzEE and GraalVM integration
 
 This project is intended to enable and optimize the transformation of KumuluzEE microservices into GraalVM native images.
+## Simple Servlet
+A GET request on `localhost:8080/servlet` should return the string `Simple Servlet`.
 
 ## REST
 The data of a single object is of the format:
